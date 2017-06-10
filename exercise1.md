@@ -39,4 +39,5 @@ Does this publication have a discernible **editorial or curatorial structure**? 
 Would you consider this project to be a **digital scholarly publication**? Why or why not?
  
  
+
 Adapted from Shannon Christine Mattern, [Evaluating Multimodal Work, Revisited](http://journalofdigitalhumanities.org/1-4/evaluating-multimodal-work-revisited-by-shannon-mattern/), Journal of Digital Humanities, 1, no. 4 (2012).
