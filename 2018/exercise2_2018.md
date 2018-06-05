@@ -12,6 +12,8 @@ http://www.thesocialhistorian.com/
 
 http://www.southernspaces.org
 
+https://www.bmj.com/
+
 ## Scalar – scalar.usc.edu
 
 http://scalar.usc.edu/anvc/dancing-with-the-zapatistas/index
@@ -30,6 +32,7 @@ http://ajiss.org/index.php/ajiss/index
 ## Mellon-funded models
 ### Manifold – manifold.umn.edu
 https://manifold.umn.edu/project/deep-mapping-the-media-city
+
 https://manifold.umn.edu/project/metagaming
 
 ### Stanford University Press
@@ -39,6 +42,7 @@ http://www.enchantingthedesert.com/home/
 http://www.vegapublish.info/
 
 ### Fulcrum https://www.fulcrum.org/
+
 https://www.fulcrum.org/epubs/t722h883s?locale=en#/6/2[Cover1]!/4/1:0
 
 Choose 3 pubs from different platforms and find:
