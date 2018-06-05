@@ -1,6 +1,10 @@
 # 2018 DHSI Digital Publishing Workshop
 ## Slides
-[Follow along with our slides!](https://docs.google.com/presentation/d/1wr4X3Cd8IH4dfVA1ARuwIpmeXpWklYR7q5WCwHpE7Nc/edit?usp=sharing)
+Follow along with our slides!
+
+[Day 1](https://docs.google.com/presentation/d/1wr4X3Cd8IH4dfVA1ARuwIpmeXpWklYR7q5WCwHpE7Nc/edit?usp=sharing)
+
+[Day 2](https://docs.google.com/presentation/d/1zINHh7Rzz99Ce3-73AslEYvDjDHOLuIJUxXYhj_iRGk/edit?usp=sharing)
 ## Notes
 [Community note taking document](https://docs.google.com/document/d/1h4GidO89PGAgtYttyLg0IInf_xYGWM4d02jxNfwaic8/edit?usp=sharing)
 
