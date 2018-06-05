@@ -10,6 +10,7 @@ http://www.thesocialhistorian.com/ (aesop story engine)
 ## Drupal
 
 http://www.southernspaces.org
+
 https://www.bmj.com/
 
 ## Scalar
@@ -19,7 +20,9 @@ http://scalar.usc.edu/maker/record/index
 ## OJS
 
 https://journal.fi/
+
 https://letters.rilem.net/index.php/rilem
+
 https://journals.ub.uni-giessen.de/kult-online/issue/view/72
 
 
