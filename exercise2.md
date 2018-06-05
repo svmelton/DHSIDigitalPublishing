@@ -5,7 +5,7 @@ http://practicalmattersjournal.org/
 
 http://www.newyorker.com/ 
 
-http://www.thesocialhistorian.com/ (aesop story engine)
+http://www.thesocialhistorian.com/ 
 
 ## Drupal
 
@@ -17,6 +17,8 @@ https://www.bmj.com/
 
 http://scalar.usc.edu/maker/record/index
 
+http://ourbelovedkin.com/awikhigan/index
+
 ## OJS
 
 https://journal.fi/
@@ -27,11 +29,18 @@ https://journals.ub.uni-giessen.de/kult-online/issue/view/72
 
 
 ## Mellon-funded models
-http://manifold.umn.edu/
+https://manifold.umn.edu/project/metagaming
 
-https://vegapublish.com/ 
+https://www.fulcrum.org/epubs/t722h883s?locale=en#/6/2[Cover1]!/4/1:0
 
 http://www.enchantingthedesert.com/home/
 
+https://vegapublish.com/ 
 
-**How do these meet (or not!) your needs and expectations from earlier?**
+
+Choose 3 pubs from different platforms and find:
+- What is the editorial process? What is the review process?
+- Who is the audience?
+- What modalities does the publication use to communicate? (text, audio, video, image-based, etc.)
+- Does the publication offer metadata of assets?
+- Does the publication provide statements about sustainability or archiving its data?
