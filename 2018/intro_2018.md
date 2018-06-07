@@ -8,6 +8,8 @@ Follow along with our slides!
 
 [Day 3](https://docs.google.com/presentation/d/170dN26b37C9NYbRFA_L3SVSBh1RD8CwQRtswSdiD3qc/edit?usp=sharing)
 
+[Day 4](https://docs.google.com/presentation/d/19pl169ua8Y0t22dUTPXkbd-fA0vdUKD9y3xheuBOMYw/edit?usp=sharing)
+
 ## Notes
 [Community note taking document](https://docs.google.com/document/d/1h4GidO89PGAgtYttyLg0IInf_xYGWM4d02jxNfwaic8/edit?usp=sharing)
 
